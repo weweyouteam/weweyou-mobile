@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62966877351",
+    "project_id": "weweyou-5ca8b",
+    "storage_bucket": "weweyou-5ca8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62966877351:android:6931a4fa7db5b8efda5f82",
+        "android_client_info": {
+          "package_name": "com.event.weweyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62966877351-1mrbgrhtskc5tm51blb9r45g3g8tmrqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.event.weweyou",
+            "certificate_hash": "10078683f7dcd4cd8d017bbfa5552a12e0391294"
+          }
+        },
+        {
+          "client_id": "62966877351-8n4etbom24403h7d37q216unu63vs21e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5q_R6Sz7V4iEEeShLYOf9P0JIpMq_q-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62966877351-8n4etbom24403h7d37q216unu63vs21e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
